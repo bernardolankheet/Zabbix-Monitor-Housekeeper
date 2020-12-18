@@ -4,8 +4,8 @@
 Project Name: Zabbix-Monitor-Housekeeper\
 Author: Bernardo Lankheet\
 Telegram: [@bernardolankheet](https://t.me/bernardolankheet)\
-Description BR: Coleta de métricas sobre a execução do Housekeeper.\
-Description EN: Collect Metrics on Housekeeper Execution.\
+Description BR: Coleta de métricas sobre a execução do Housekeeper. *Não se aplica em ambientes que utiliza particionamento de tabelas ou outras rotinas para manutenção do banco de dados.*\
+Description EN: Collect Metrics on Housekeeper Execution. *It does not apply in environments that use table partitioning or other routines for maintaining the bank.*\
 OBS EN: Based on projet Diego Cavalcante [ZAKEEP.zabbix.housekeeper.monitor](https://github.com/suportecavalcante/zabbix.templates/tree/master/linux/ZAKEEP.zabbix.housekeeper.monitor)\
 OBS BR: Ideia retirada do projeto do Diego Cavalcante [ZAKEEP.zabbix.housekeeper.monitor](https://github.com/suportecavalcante/zabbix.templates/tree/master/linux/ZAKEEP.zabbix.housekeeper.monitor)
 
